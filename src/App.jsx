@@ -4,7 +4,7 @@ import UserProfileCard from './ProfileCard';
 function App() {
   const userData = {
     name: 'Lakshna Vinoo',
-    email: 'lashkna@example.com',
+    email: 'lashknaparmar@example.com',
     bio: 'Frontend developer with experience in HTML, CSS, JavaScript, React, Tailwind, Bootstrap and building interactive UIs.',
     avatar: 'https://tse2.mm.bing.net/th/id/OIP.tMvUrmrmrWgys3KcDg9AXQHaHa?pid=Api&P=0&h=220'
   };
